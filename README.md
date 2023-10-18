@@ -1,2 +1,2 @@
 # firtstrepo
-# https://github.com/demonaki
+# ссылка - [account](https://github.com/demonaki)
